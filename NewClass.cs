@@ -5,6 +5,7 @@ using System.Text;
 namespace ConsoleApp8
 {
     class NewClass
-    {
+    { 
+        //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     }
 }
