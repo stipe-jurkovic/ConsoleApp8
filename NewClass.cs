@@ -7,5 +7,7 @@ namespace ConsoleApp8
     class NewClass
     {
         int method();
+    { 
+        //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     }
 }
